@@ -11,18 +11,25 @@ UAP Administrasi Sistem
 1. Buat direktori dengan nama UAP-Adsis, isi dengan file txt dengan format penamaan catatannya-<nama kamu>.txt, kemudian isi file txt tersebut dengan nama dan NIM kamu. Kemudian atur permission view-only pada file tersebut untuk user biasa. Tunjukkan bukti berupa screenshot yang menunjukkan bahwa file tersebut berhasil diatur permissionnya menjadi view-only untuk user biasa.
 
 <p align="center">
-  <img src="https://github.com/garr007/UAP_Adsis/blob/main/Images/Aspose.Words.f39e40ac-573f-4559-b2e7-d24427e0ee76.001.png" >
+  <img src="https://github.com/dayfitmuhrashad/UAP_Adsis_E/blob/main/images/Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.001.png" >
 </p>
 <p align="center">Gambar 1.1</p>
  **Screenshot :** 
 
 
 
-![](Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.002.png)
+<p align="center">
+  <img src="https://github.com/dayfitmuhrashad/UAP_Adsis_E/blob/main/images/Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.002.png" >
+</p>
+<p align="center">Gambar 1.2</p>
 
-![](Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.003.png)**Gambar 1.2**
 
-**Gambar 1.3**
+ 
+
+<p align="center">
+  <img src="https://github.com/dayfitmuhrashad/UAP_Adsis_E/blob/main/images/Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.003.png" >
+</p>
+<p align="center">Gambar 1.3</p>
 
 
 **Penjelasan :** 
