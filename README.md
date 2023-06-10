@@ -14,7 +14,7 @@ UAP Administrasi Sistem
   <img src="https://github.com/dayfitmuhrashad/UAP_Adsis_E/blob/main/images/Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.001.png" >
 </p>
 <p align="center">Gambar 1.1</p>
- **Screenshot :** 
+ 
 
 
 
@@ -37,63 +37,78 @@ UAP Administrasi Sistem
 Pada Gambar 1.1 merupakan pembuatan direktori menggunakan perintah “mkdir” yang mana direktorinya bernama “UTP-Adsis”, Kemudian membuat file baru dengan nama “dayfit.txt” dengan menggunakan perintah “touch”. Lalu memindahkan file yang baru dibuat  ke direktori “UTP-Adsis”. Kemudian pada gambar 1.2 melakukan perubahan file permission dengan perintah “sudo chmod 400 dayfit.txt” dan mengecek  bahwa file tersebut telah diubah permissionnya dengan perintah “ls – l dayfit.txt” terlihat pada gambar bahwa pengubahan permission menjadi view only telah berhasil. Pada gambar 1.3 melakukan  pengisian  nama dan NIM pada file dayfit.txt dengan perintah “sudo nano dayfit.txt”
 
 
-1. Lakukan konfigurasi alamat IP address sementara pada sistem dan default gateway. (petunjuk 192.168.56.x | x adalah nomor absen)
+2. Lakukan konfigurasi alamat IP address sementara pada sistem dan default gateway. (petunjuk 192.168.56.x | x adalah nomor absen)
 
-**Screenshot :**
+<p align="center">
+  <img src="https://github.com/dayfitmuhrashad/UAP_Adsis_E/blob/main/images/Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.004.png" >
+</p>
+<p align="center">Gambar 2.1</p>
 
-![](Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.004.png)
-
-**Gambar 2.1**
-
-![](Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.005.png)
-
-**Gambar 2.2**
+<p align="center">
+  <img src="https://github.com/dayfitmuhrashad/UAP_Adsis_E/blob/main/images/Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.005.png" >
+</p>
+<p align="center">Gambar 2.2</p>
 
 **Penjelasan :**
 
 konfigurasi alamat IP address sementara pada sistem dan default gateway. Dengan mengubah IP address untuk ens33 menjadi  192.168.56.8 pada Gambar 2.1. Lalu menambahkan default gateway dengan perintah “sudo route add default gateway 192.168.56.8 pada Gambar 2.2
 
-1. Lakukan Instalasi Webmin lalu buatlah user bernama nama anda, lalu buat group Adsis\_(kelas masing-masing) dan masukkan nama anda di group
+3. Lakukan Instalasi Webmin lalu buatlah user bernama nama anda, lalu buat group Adsis\_(kelas masing-masing) dan masukkan nama anda di group
 
 **ScreenShot :**
 
-![](Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.006.png)
-**Gambar 3.1**
+<p align="center">
+  <img src="https://github.com/dayfitmuhrashad/UAP_Adsis_E/blob/main/images/Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.006.png" >
+</p>
+<p align="center">Gambar 3.1</p>
 
-![](Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.007.png)**Gambar 3.2![](Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.008.png)Gambar 3.3**
+<p align="center">
+  <img src="https://github.com/dayfitmuhrashad/UAP_Adsis_E/blob/main/images/Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.007.png" >
+</p>
+<p align="center">Gambar 3.2</p>
 
 
 
-![](Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.009.png)**Gambar 3.4**
+<p align="center">
+  <img src="https://github.com/dayfitmuhrashad/UAP_Adsis_E/blob/main/images/Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.008.png" >
+</p>
+<p align="center">Gambar 3.3</p>
 
+  
+<p align="center">
+  <img src="https://github.com/dayfitmuhrashad/UAP_Adsis_E/blob/main/images/Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.009.png" >
+</p>
+<p align="center">Gambar 3.4</p>
 
-
-
-![](Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.010.png)
-
-**Gambar 3.5**
 
 **Penjelasan :**
 
 Melakukan pembuatan user baru  (gambar 3.1 & 3.2), Pembuatan group Adsis\_E (Gambar 3.3 dan 3.4), Pemasukkan user ke dalam group Adsis\_E (Gambar 3.5) 
 
-1. Lakukan ping ke alamat ip anda dan coba lakukan reject dan drop di webmin, lalu analisis apa yang terjadi?
+  
+4. Lakukan ping ke alamat ip anda dan coba lakukan reject dan drop di webmin, lalu analisis apa yang terjadi?
 
-**Screenshot :** ![](Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.011.png)
+**Screenshot :** 
+  
+  <p align="center">
+  <img src="https://github.com/dayfitmuhrashad/UAP_Adsis_E/blob/main/images/Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.010.png" >
+</p>
+<p align="center">Gambar 4.1</p>
 
-**Gambar 4.1**
+<p align="center">
+  <img src="https://github.com/dayfitmuhrashad/UAP_Adsis_E/blob/main/images/Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.011.png" >
+</p>
+<p align="center">Gambar 4.2</p>
 
-![](Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.012.png)
+<p align="center">
+  <img src="https://github.com/dayfitmuhrashad/UAP_Adsis_E/blob/main/images/Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.012.png" >
+</p>
+<p align="center">Gambar 4.3</p>
 
-**Gambar 4.2**
-
-![](Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.013.png)
-
-**Gambar 4.3**
-
-![](Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.014.png)
-
-**Gambar 4.4**
+<p align="center">
+  <img src="https://github.com/dayfitmuhrashad/UAP_Adsis_E/blob/main/images/Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.013.png" >
+</p>
+<p align="center">Gambar 4.4</p>
 
 **Penjelasan :**
 
