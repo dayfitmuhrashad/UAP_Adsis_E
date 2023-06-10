@@ -6,9 +6,7 @@ NIM		: 215150701111013
 
 Kelas		: ADSIS-E
 
-<marquee direction="horizontal" scrollamount="3">
-   UAP ADSIS
-</marquee>
+<p align="center"><b>UAP ADSIS</b></p>
 
 1. Buat direktori dengan nama UAP-Adsis, isi dengan file txt dengan format penamaan catatannya-<nama kamu>.txt, kemudian isi file txt tersebut dengan nama dan NIM kamu. Kemudian atur permission view-only pada file tersebut untuk user biasa. Tunjukkan bukti berupa screenshot yang menunjukkan bahwa file tersebut berhasil diatur permissionnya menjadi view-only untuk user biasa.
 
