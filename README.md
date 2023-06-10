@@ -111,6 +111,11 @@ Melakukan pembuatan user baru  (gambar 3.1 & 3.2), Pembuatan group Adsis\_E (Gam
   <img src="https://github.com/dayfitmuhrashad/UAP_Adsis_E/blob/main/images/Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.013.png" >
 </p>
 <p align="center">Gambar 4.3</p>
+  
+ <p align="center">
+  <img src="https://github.com/dayfitmuhrashad/UAP_Adsis_E/blob/main/images/Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.014.png" >
+</p>
+<p align="center">Gambar 4.4</p>
 
 **Penjelasan :**
 
@@ -118,62 +123,24 @@ Pada gambar 4.1 melakukan pengecekan ping terhadap IP address dimana ping berjal
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1. Buatlah perintah otomatis yang berfungsi untuk ping [www.filkom.ub.ac.id](http://www.filkom.ub.ac.id/)
+5. Buatlah perintah otomatis yang berfungsi untuk ping [www.filkom.ub.ac.id](http://www.filkom.ub.ac.id/)
 
 **Screenshot :**
 
+ <p align="center">
+  <img src="https://github.com/dayfitmuhrashad/UAP_Adsis_E/blob/main/images/Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.015.png" >
+</p>
+<p align="center">Gambar 5.1</p>
 
-![](Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.015.png)**Gambar 5.1**
+<p align="center">
+  <img src="https://github.com/dayfitmuhrashad/UAP_Adsis_E/blob/main/images/Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.016.png" >
+</p>
+<p align="center">Gambar 5.2</p>
 
-![](Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.016.png)
-
-**Gambar 5.2**
-
-
-![](Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.017.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Gambar 5.3**
+<p align="center">
+  <img src="https://github.com/dayfitmuhrashad/UAP_Adsis_E/blob/main/images/Aspose.Words.65a08ee3-505f-40ad-9f84-f665dc6dd402.017.png" >
+</p>
+<p align="center">Gambar 5.3</p>
 
 
 **Penjelasan :**
